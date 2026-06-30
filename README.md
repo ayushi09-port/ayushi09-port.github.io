@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shelly Na
+# 👋 Hi, I'm Ayushi Nathawat
 
 **B.Sc. Student | Content Writer | Canva Designer | Aspiring Researcher**
 
