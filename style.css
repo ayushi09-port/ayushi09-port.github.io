@@ -71,9 +71,9 @@ header .container {
 
 .logo-circle {
 
-    width: 48px;
+    width: 62px;
 
-    height: 48px;
+    height: 62px;
 
     background: #111;
 
@@ -91,20 +91,11 @@ header .container {
 
     font-weight: 700;
 
-    font-size: 1rem;
-
-    letter-spacing: 1px;
-}
-
-.logo-text {
-
-    font-family: "Poppins", sans-serif;
-
     font-size: 1.4rem;
 
-    font-weight: 700;
+    letter-spacing: 1px;
 
-    color: #222;
+    transition: 0.3s;
 }
 
 nav a {
