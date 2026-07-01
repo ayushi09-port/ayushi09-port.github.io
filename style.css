@@ -275,3 +275,18 @@ font-family:"Poppins",sans-serif;
 
 color:#666;
 }
+
+footer{
+
+text-align:center;
+
+padding:30px;
+
+border-top:1px solid #e5e7eb;
+
+margin-top:50px;
+
+color:#666;
+
+font-size:.9rem;
+}
