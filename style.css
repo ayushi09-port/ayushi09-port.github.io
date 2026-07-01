@@ -42,7 +42,7 @@ header {
 
     border-bottom: 1px solid #e5e7eb;
 
-    padding: 22px 0;
+    padding: 16px 0;
 }
 
 header {
@@ -75,7 +75,7 @@ header .container {
 
     height: 62px;
 
-    background: #111;
+    background: #1f2937;
 
     color: white;
 
@@ -96,6 +96,13 @@ header .container {
     letter-spacing: 1px;
 
     transition: 0.3s;
+}
+
+.logo-circle:hover {
+
+    transform: scale(1.08);
+
+    cursor: pointer;
 }
 
 nav a {
